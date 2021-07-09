@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = "1814069703:AAH-JbB2fb9Lvuq6Rf5Kl3cwp3I7W7ySH2Q"
-    APP_ID = "6662237"
-    API_HASH = "58f964d93b37964bbb24568beb85e189"
-    DATABASE_URL = "postgres://nlydfgwohmvxpn:e490aab4d66a90c1b7cad945ed4ffcce105b8b560a5a67579ea691c5a2f46d50@ec2-50-17-255-120.compute-1.amazonaws.com:5432/d31goqjj4daosv"
+    BOT_TOKEN = "1813943559:AAEXnKseQrRiNpyZm4SY3IqQCjdb_yxuBGc"
+    APP_ID = "1971546"
+    API_HASH = "b994bccad6118cd6fb6d091b9bbfe6cf"
+    DATABASE_URL = "postgres://xokwbvlzawbrkp:60de743f6e2f3af46184602c34cbbf903423e178a13d31b4f599978c218f38c8@ec2-54-91-188-254.compute-1.amazonaws.com:5432/dfpbg6ffhal1pr"
     SUDO_USERS = "1180716150" # Sepearted by space.
     SPPORT_CHAT_LINK = "https://t.me/lkhitech"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "996990059863-mev4jv3ah9avlka8c4jrjifpk8pl0q0s.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = "RQQy4xX3C_DKswA6bB3mLa1R"
+    G_DRIVE_CLIENT_ID = "944029416412-q7g1qrgfnlllubdatf5k7f92d2q84u74.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "eO4ZQ5IpT8c-lsmBoJfgVDmN"
 
 
 class BotCommands:
